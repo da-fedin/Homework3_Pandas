@@ -1,6 +1,2 @@
 # created by virtualenv automatically
 venv/
-example.ipynb
-tmp.py
-.idea/
-.env
